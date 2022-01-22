@@ -1,0 +1,46 @@
+body{
+    background-color: purple;
+    
+}
+
+.c1{
+    background-color:violet;
+
+}
+
+.p50{
+    padding: 50;
+}
+
+
+.gridlayout{
+    background-color: rgb(163, 124, 163);
+    padding: 124
+    
+}
+
+.col{
+    border: rgb(90, 92, 81) 1px solid;
+    padding: 10;
+    background-color: #8852e026;
+    
+}
+
+.container>div.noi{
+    background-color: aliceblue;
+}
+
+.container>div.noi1{
+    background-color: aquamarine;
+}
+
+.container>div.noi3{
+    background-color: burlywood;
+    text-transform: capitalize;
+
+}
+
+.noi4{
+    background-color: cornsilk;
+    padding: 12px;
+}
